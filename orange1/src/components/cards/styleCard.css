@@ -1,0 +1,127 @@
+.top_part_card{
+    width: 461px;
+    height: 249px;
+}
+/* .card1{
+    width: 461px;
+    height: 469px;
+    background-color: #F8A126;
+}
+
+.card2{
+    width: 461px;
+    height: 469px;
+    background-color: #F8A126;
+}
+
+.card1_img{
+    width: 461px;
+    height: 249px;
+    background-image: url(./../../img/2.jpg);
+}
+
+.card1 p:nth-of-type(1){
+    color: white;
+    font-family: Montserrat-Regular;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 38px;
+}
+
+.card1 p:nth-of-type(2){
+    color: black;
+    font-family: Montserrat-Regular;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 38px;
+}
+
+.card2_img{
+    width: 461px;
+    height: 249px;
+    background-image: url(./../../img/3.jpg);
+}
+
+.card2 p:nth-of-type(1){
+    color: white;
+    font-family: Montserrat-Regular;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 38px;
+}
+
+.card2 p:nth-of-type(2){
+    color: black;
+    font-family: Montserrat-Regular;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 38px;
+} */
+
+.wrapper_two{
+    width: 946px;
+    height: 469px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+/* .card3_img{
+    width: 461px;
+    height: 249px;
+    background-image: url(./../../img/4.jpg);
+}
+
+.card3 p:nth-of-type(1){
+    color: white;
+    font-family: Montserrat-Regular;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 38px;
+}
+
+.card3 p:nth-of-type(2){
+    color: black;
+    font-family: Montserrat-Regular;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 38px;
+}
+
+.cards1{
+    margin-top: 31px;
+}
+
+.card3{
+    width: 461px;
+    height: 469px;
+    background-color: #F8A126;
+}
+
+.card4{
+    width: 461px;
+    height: 469px;
+    background-color: #F8A126;
+}
+
+.card4_img{
+    width: 461px;
+    height: 249px;
+    background-image: url(./../../img/5.jpg);
+}
+
+.card4 p:nth-of-type(1){
+    color: white;
+    font-family: Montserrat-Regular;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 38px;
+}
+
+.card4 p:nth-of-type(2){
+    color: black;
+    font-family: Montserrat-Regular;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 38px;
+} */
