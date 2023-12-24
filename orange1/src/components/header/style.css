@@ -42,14 +42,20 @@ header{
     height: 549px;
 }
 
-a{
+nav{
+    width: 255px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav p{
     color: white;
     margin-right: 10px;
     text-decoration: none;
     font-family: Montserrat-Bold;
 }
 
-a:last-child{
+nav p:nth-child(3){
     margin-right: 0;
 }
 

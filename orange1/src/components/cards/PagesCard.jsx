@@ -1,17 +1,13 @@
 import "./styleCard.css";
 
-const PagesCard = (cardImg, cardTitle, cardInformation) => {
+const Card = (props) => {
     return ( 
-        <div>
-            <div className="top_part_card">
-                <img src={cardImg} alt=""/>
-            </div>
-            <div className="bottom_part_card">
-                <h3>{cardTitle}</h3>
-                <p>{cardInformation}</p>
-            </div>
+        <div className="card">
+            <p>{props.img}</p>
+            <p>{props.title}</p>
+            <p>{props.information}</p>
         </div>
     );
 }
  
-export default PagesCard;
+export default Card;
